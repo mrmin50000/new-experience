@@ -1,0 +1,18 @@
+{"time":"2025-11-27T20:57:54.929359304+03:00","level":"INFO","msg":"stream: starting","core version":"0.23.0"}
+{"time":"2025-11-27T20:57:55.694510218+03:00","level":"ERROR","msg":"HTTP error","status":403,"method":"POST","url":"https://api.wandb.ai/graphql"}
+{"time":"2025-11-27T20:57:55.69464915+03:00","level":"ERROR","msg":"featurechecker: failed to load features, all will be disabled","error":"returned error 403: {\"data\":null,\"errors\":[{\"message\":\"\\u003c!doctype html\\u003e\\u003cmeta charset=\\\"utf-8\\\"\\u003e\\u003cmeta name=viewport content=\\\"width=device-width, initial-scale=1\\\"\\u003e\\u003ctitle\\u003e403\\u003c/title\\u003e403 Forbidden\"}]}"}
+{"time":"2025-11-27T20:57:55.695000272+03:00","level":"INFO","msg":"stream: created new stream","id":"y994qtes"}
+{"time":"2025-11-27T20:57:55.695127274+03:00","level":"INFO","msg":"handler: started","stream_id":"y994qtes"}
+{"time":"2025-11-27T20:57:55.695286658+03:00","level":"INFO","msg":"stream: started","id":"y994qtes"}
+{"time":"2025-11-27T20:57:55.695363755+03:00","level":"INFO","msg":"writer: started","stream_id":"y994qtes"}
+{"time":"2025-11-27T20:57:55.695378976+03:00","level":"INFO","msg":"sender: started","stream_id":"y994qtes"}
+{"time":"2025-11-27T20:57:55.697043067+03:00","level":"WARN","msg":"runupserter: server does not expand metric globs but the x_server_side_expand_glob_metrics setting is set; ignoring"}
+{"time":"2025-11-27T20:57:55.956736046+03:00","level":"ERROR","msg":"HTTP error","status":403,"method":"POST","url":"https://api.wandb.ai/graphql"}
+{"time":"2025-11-27T20:57:55.956937034+03:00","level":"ERROR","msg":"runupserter: failed to init run","error":"returned error 403: {\"data\":null,\"errors\":[{\"message\":\"\\u003c!doctype html\\u003e\\u003cmeta charset=\\\"utf-8\\\"\\u003e\\u003cmeta name=viewport content=\\\"width=device-width, initial-scale=1\\\"\\u003e\\u003ctitle\\u003e403\\u003c/title\\u003e403 Forbidden\"}]}"}
+{"time":"2025-11-27T20:57:55.999696818+03:00","level":"INFO","msg":"stream: closing","id":"y994qtes"}
+{"time":"2025-11-27T20:57:56.000366699+03:00","level":"ERROR","msg":"sender: uploadConfigFile: runupserter: run not yet initialized"}
+{"time":"2025-11-27T20:57:56.050968673+03:00","level":"ERROR","msg":"runfiles: runupserter: run not yet initialized"}
+{"time":"2025-11-27T20:57:56.051636303+03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-11-27T20:57:56.051664146+03:00","level":"INFO","msg":"handler: closed","stream_id":"y994qtes"}
+{"time":"2025-11-27T20:57:56.051731332+03:00","level":"INFO","msg":"sender: closed","stream_id":"y994qtes"}
+{"time":"2025-11-27T20:57:56.051742743+03:00","level":"INFO","msg":"stream: closed","id":"y994qtes"}
